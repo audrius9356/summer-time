@@ -1,0 +1,16 @@
+
+
+.day {
+    width: 2rem;
+    height: 2rem;
+    margin: 0.1rem;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: .7rem;
+    background-color: #222;
+}
+.day:hover{
+    opacity: .5;
+}

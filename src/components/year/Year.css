@@ -1,0 +1,14 @@
+.year {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    width: 50%;
+}
+
+.sideDisp{
+    display: flex;
+    flex-direction: row;
+}
+
+.oneDayStack{
+    
+}
